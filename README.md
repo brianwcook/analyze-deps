@@ -57,4 +57,4 @@ python analyze_deps.py requirements.txt -d https://alternative.pypi.org/simple
 - Adds appropriate index URLs to requirements
 - Generates hashes for all dependencies
 - Supports output to file or terminal
-- Handles both preferred and default PyPI indices 
+- Handles both preferred and default PyPI indices
